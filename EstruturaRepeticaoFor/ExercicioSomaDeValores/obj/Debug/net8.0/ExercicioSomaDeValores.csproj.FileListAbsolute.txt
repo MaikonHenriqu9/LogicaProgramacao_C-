@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\bin\Debug\net8.0\ExercicioSomaDeValores.exe
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\bin\Debug\net8.0\ExercicioSomaDeValores.deps.json
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\bin\Debug\net8.0\ExercicioSomaDeValores.runtimeconfig.json
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\bin\Debug\net8.0\ExercicioSomaDeValores.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\bin\Debug\net8.0\ExercicioSomaDeValores.pdb
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\ExercicioSomaDeValores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\ExercicioSomaDeValores.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\ExercicioSomaDeValores.AssemblyInfo.cs
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\ExercicioSomaDeValores.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\ExercicioSomaDeValores.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\refint\ExercicioSomaDeValores.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\ExercicioSomaDeValores.pdb
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\ExercicioSomaDeValores.genruntimeconfig.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoFor\ExercicioSomaDeValores\obj\Debug\net8.0\ref\ExercicioSomaDeValores.dll
