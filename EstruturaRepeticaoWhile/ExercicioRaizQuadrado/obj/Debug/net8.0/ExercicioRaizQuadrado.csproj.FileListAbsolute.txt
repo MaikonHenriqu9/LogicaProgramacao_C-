@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\bin\Debug\net8.0\ExercicioRaizQuadrado.exe
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\bin\Debug\net8.0\ExercicioRaizQuadrado.deps.json
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\bin\Debug\net8.0\ExercicioRaizQuadrado.runtimeconfig.json
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\bin\Debug\net8.0\ExercicioRaizQuadrado.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\bin\Debug\net8.0\ExercicioRaizQuadrado.pdb
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\ExercicioRaizQuadrado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\ExercicioRaizQuadrado.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\ExercicioRaizQuadrado.AssemblyInfo.cs
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\ExercicioRaizQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\ExercicioRaizQuadrado.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\refint\ExercicioRaizQuadrado.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\ExercicioRaizQuadrado.pdb
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\ExercicioRaizQuadrado.genruntimeconfig.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\EstruturaRepeticaoWhile\ExercicioRaizQuadrado\obj\Debug\net8.0\ref\ExercicioRaizQuadrado.dll
