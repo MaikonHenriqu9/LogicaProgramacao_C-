@@ -17,6 +17,7 @@ namespace Exercicio {
             x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Digite o terceiro valor do triangulo: ");
             x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double areaX = x.CalcularArea();
 
             Console.WriteLine("\nMedidas do Segundo Triângulo");
             Console.Write("Digite o primeiro valor do triangulo: ");
@@ -25,17 +26,15 @@ namespace Exercicio {
             y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Digite o terceiro valor do triangulo: ");
             y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
+            double areaY = y.CalcularArea();
 
-            double perimetro = (x.A + x.B + x.C) / 2.0;
-            double areaX = Math.Sqrt(perimetro * (perimetro - x.A) * (perimetro - x.B) * (perimetro - x.C));
+            Console.WriteLine(areaX);
+            Console.WriteLine(areaY);
 
-            perimetro = (y.A + y.B + y.C) / 2.0;
-            double areaY = Math.Sqrt(perimetro * (perimetro - y.A) * (perimetro - y.B) * (perimetro - y.C));
-
-            string resultado = areaX > areaY ? $"Maior área: {areaX}" : $"Maior área: {areaY}";
-
-            Console.WriteLine(resultado);
             Console.ReadKey();
         }
+
+
+
     }
 }
