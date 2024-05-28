@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Globalization;
 
-namespace Program {
+namespace Exercicio {
     class Program {
         static void Main(string[] args) {
 
@@ -12,19 +12,19 @@ namespace Program {
 
             Console.WriteLine("Medidas do Primeiro Triângulo");
             Console.Write("Digite o primeiro valor do triangulo: ");
-            x.A = double.Parse(Console.ReadLine());
+            x.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Digite o segundo valor do triangulo: ");
-            x.B = double.Parse(Console.ReadLine());
+            x.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Digite o terceiro valor do triangulo: ");
-            x.C = double.Parse(Console.ReadLine());
+            x.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             Console.WriteLine("\nMedidas do Segundo Triângulo");
             Console.Write("Digite o primeiro valor do triangulo: ");
-            y.A = double.Parse(Console.ReadLine());
+            y.A = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Digite o segundo valor do triangulo: ");
-            y.B = double.Parse(Console.ReadLine());
+            y.B = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
             Console.Write("Digite o terceiro valor do triangulo: ");
-            y.C = double.Parse(Console.ReadLine());
+            y.C = double.Parse(Console.ReadLine(), CultureInfo.InvariantCulture);
 
             double perimetro = (x.A + x.B + x.C) / 2.0;
             double areaX = Math.Sqrt(perimetro * (perimetro - x.A) * (perimetro - x.B) * (perimetro - x.C));
@@ -32,9 +32,9 @@ namespace Program {
             perimetro = (y.A + y.B + y.C) / 2.0;
             double areaY = Math.Sqrt(perimetro * (perimetro - y.A) * (perimetro - y.B) * (perimetro - y.C));
 
-            Console.WriteLine($"\nÁrea do primeiro triângulo: {areaX.ToString("f2", CultureInfo.InvariantCulture)}");
-            Console.WriteLine($"Àrea do segundo triângulo: {areaY.ToString("f2", CultureInfo.InvariantCulture)}");
+            string resultado = areaX > areaY ? $"Maior área: {areaX}" : $"Maior área: {areaY}";
 
+            Console.WriteLine(resultado);
             Console.ReadKey();
         }
     }

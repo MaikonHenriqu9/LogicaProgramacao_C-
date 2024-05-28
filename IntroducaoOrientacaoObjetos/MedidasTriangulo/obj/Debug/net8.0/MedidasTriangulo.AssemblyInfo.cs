@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MedidasTriangulo")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7b5f92f50c908490cde32316f15e576deab25477")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+cfd8484f2d8f166bc5b3f270d71946130d590798")]
 [assembly: System.Reflection.AssemblyProductAttribute("MedidasTriangulo")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MedidasTriangulo")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
