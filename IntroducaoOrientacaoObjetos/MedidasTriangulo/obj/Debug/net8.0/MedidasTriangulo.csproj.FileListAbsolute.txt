@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\bin\Debug\net8.0\MedidasTriangulo.exe
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\bin\Debug\net8.0\MedidasTriangulo.deps.json
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\bin\Debug\net8.0\MedidasTriangulo.runtimeconfig.json
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\bin\Debug\net8.0\MedidasTriangulo.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\bin\Debug\net8.0\MedidasTriangulo.pdb
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\MedidasTriangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\MedidasTriangulo.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\MedidasTriangulo.AssemblyInfo.cs
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\MedidasTriangulo.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\MedidasTriangulo.sourcelink.json
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\MedidasTriangulo.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\refint\MedidasTriangulo.dll
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\MedidasTriangulo.pdb
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\MedidasTriangulo.genruntimeconfig.cache
+C:\Users\User\Desktop\Projetos\Práticas\pratica_C#\ExerciciosNelio\IntroducaoOrientacaoObjetos\MedidasTriangulo\obj\Debug\net8.0\ref\MedidasTriangulo.dll
